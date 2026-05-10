@@ -1,6 +1,22 @@
-# DiamondsML
+# diamond-aviation-ml
+
 Projeto de simulação e análise em diamantação na aviação civil.
 # 💠 Diamantação na Aviação Civil — Machine Learning
+
+diamond-aviation-ml/
+│
+├── README.md
+├── notebook.ipynb
+├── requirements.txt
+│
+├── data/
+│   └── dataset.csv  
+│
+└── images/
+    ├── correlation.png
+    ├── results.png
+    └── model.png
+
 
 Modelo de Machine Learning aplicado ao processo de **diamantação na aviação civil**, analisando dados operacionais para prever padrões, otimizar processos e apoiar decisões técnicas.
 
